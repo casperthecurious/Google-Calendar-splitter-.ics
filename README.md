@@ -1,6 +1,4 @@
-Got it — here’s the rewritten README in proper Markdown:
 
-````markdown
 # ICS Calendar File Splitter
 
 A small Python tool to split large `.ics` calendar files into smaller, import-friendly chunks.  
